@@ -40,5 +40,9 @@ INSERT INTO productos (nombre, tipo, marca, descripcion, precio, stock, imagen) 
 ('Hacha Husqvarna X-Cut X162', 'hacha', 'Husqvarna', 'Hacha profesional de talá-intermedia', 69.00, 28, 'hacha_husqvarna_xcut_x162.jpg'),
 ('Maza Stanley FatMax FME-MFM18XB-1', 'maza', 'Stanley', 'Maza profesional para uso forestal con mango de fibra', 79.90, 20, 'maza_stanley_fatmax_fmemfm18xb1.jpg'),
 ('Casco Forestal Husqvarna Technical XR', 'accesorio', 'Husqvarna', 'Casco técnico con protección para tala intensiva', 99.90, 15, 'casco_husqvarna_technical_xr.jpg'),
-('Kit Limpieza Motosierra Stihl Premium', 'accesorio', 'Stihl', 'Kit de limpieza y mantenimiento para motosierra', 39.00, 30, 'kit_limpieza_motosierra_stihl_premium.jpg');
-
+('Kit Limpieza Motosierra Stihl Premium', 'accesorio', 'Stihl', 'Kit de limpieza y mantenimiento para motosierra', 39.00, 30, 'kit_limpieza_motosierra_stihl_premium.jpg'),
+('Kawasaki Ninja 500', 'vehiculo', 'Kawasaki', 'Motocicleta de la marca Kawasaki', 5000.00, 1, 'kawasaki_ninja_500.jpg'),
+('Honda CBR 650R', 'vehiculo', 'Honda', 'Motocicleta de la marca Honda', 6000.00, 1, 'honda_cbr_650r.jpg')
+('Yamaha R7', 'vehiculo', 'Yamaha', 'Motocicleta de la marca Yamaha', 55000.00, 1, 'yamaha_r7.jpg')
+('KTM Duke 390', 'vehiculo', 'KTM', 'Moto de la marca KTM', 6099.00, 1, 'ktm_duke_390.jpg')
+('Aprilia RS 660', 'vehiculo', 'Aprilia', 'Moto de la marca Aprilia', 8000.00, 1, 'aprilia_rs_660.jpg');
